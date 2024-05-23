@@ -13,7 +13,7 @@ A curated list of awesome job seeking resources
 
 * [simplify.jobs](https://simplify.jobs/)
 
-## Resume
+## Resume Tools
 
 * [jobscan](https://www.jobscan.co/)
 * [resumeworded](https://resumeworded.com/results-v2)
@@ -51,3 +51,10 @@ Helpful for anything from career advice, cover letter generation to fine tuning 
 * [awesome-jobs](https://github.com/acacess/awesome-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+
+## Would like to Contribute?
+
+If you have something useful, we'd love your contribution
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md)
