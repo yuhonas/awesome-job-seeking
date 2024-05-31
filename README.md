@@ -20,6 +20,10 @@ A curated list of awesome job seeking resources
 
 ## Communities
 
+### Glassdoor
+* [Community](https://www.glassdoor.com.au/Community/index.htm)
+* [Jobs in Tech](https://www.glassdoor.com.au/Community/jobs-in-tech)
+
 ### Reddit
 * [r/jobs](https://www.reddit.com/r/jobs/)
 * [r/recruitinghell](https://www.reddit.com/r/recruitinghell/)
@@ -41,6 +45,13 @@ Helpful for anything from career advice, cover letter generation to fine tuning 
 * [gemini](https://gemini.google.com/)
 * [meta.ai](https://www.meta.ai/)
 
+### Know Thine Enemy
+
+* [Lever ATS: What Every Job Seeker Should Know](https://www.jobscan.co/blog/lever-ats/)
+* [Getting started with Lever](https://help.lever.co/hc/en-us/articles/360030951972-Getting-started-with-Lever)
+
+* [Greenhouse Support](https://support.greenhouse.io/hc/en-us/categories/360000310871-All-Recruiting-topics)
+
 
 ## Other Awesome Resources
 
@@ -52,6 +63,9 @@ Helpful for anything from career advice, cover letter generation to fine tuning 
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
+## Productivty
+
+* [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 
 ## Would like to Contribute?
 
