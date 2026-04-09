@@ -45,11 +45,17 @@ Helpful for anything from career advice, cover letter generation to fine tuning 
 * [gemini](https://gemini.google.com/)
 * [meta.ai](https://www.meta.ai/)
 
+### Prompt Templates
+
+Use with care & for inspiration
+
+* [10 Free AI Prompts to Help You Land Your Next Job](https://timdietrich.me/blog/ai-prompts-job-search/)
+
+
 ### Know Thine Enemy
 
 * [Lever ATS: What Every Job Seeker Should Know](https://www.jobscan.co/blog/lever-ats/)
 * [Getting started with Lever](https://help.lever.co/hc/en-us/articles/360030951972-Getting-started-with-Lever)
-
 * [Greenhouse Support](https://support.greenhouse.io/hc/en-us/categories/360000310871-All-Recruiting-topics)
 
 
