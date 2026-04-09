@@ -66,6 +66,7 @@ Helpful for anything from career advice, cover letter generation to fine tuning 
 ## Productivty
 
 * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+* [Job Matcher](https://christopherbeaulieu.net/job-matcher/) - Self-hosted pipeline that scores job listings against your skills profile using an LLM
 
 ## Would like to Contribute?
 
