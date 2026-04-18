@@ -73,6 +73,7 @@ Use with care & for inspiration
 
 * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 * [Job Matcher](https://christopherbeaulieu.net/job-matcher/) - Self-hosted pipeline that scores job listings against your skills profile using an LLM
+* [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration. 
 
 ## Would like to Contribute?
 
