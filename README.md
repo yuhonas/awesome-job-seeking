@@ -15,6 +15,7 @@ A curated list of awesome job seeking resources
 
 ## Resume Tools
 
+* [ATSGuard](https://atsguard.com) - AI-powered ATS resume scanner. Paste your resume + job description, get a match score with exact missing keywords and rewritten bullet points in 30 seconds.
 * [jobscan](https://www.jobscan.co/)
 * [resumeworded](https://resumeworded.com/results-v2)
 
