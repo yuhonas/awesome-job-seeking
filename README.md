@@ -18,6 +18,7 @@ A curated list of awesome job seeking resources
 * [ATSGuard](https://atsguard.com) - AI-powered ATS resume scanner. Paste your resume + job description, get a match score with exact missing keywords and rewritten bullet points in 30 seconds.
 * [jobscan](https://www.jobscan.co/)
 * [resumeworded](https://resumeworded.com/results-v2)
+* [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates and ATS-friendly export.
 
 ## Communities
 
