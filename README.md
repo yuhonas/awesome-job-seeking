@@ -18,6 +18,7 @@ A curated list of awesome job seeking resources
 * [ATSGuard](https://atsguard.com) - AI-powered ATS resume scanner. Paste your resume + job description, get a match score with exact missing keywords and rewritten bullet points in 30 seconds.
 * [jobscan](https://www.jobscan.co/)
 * [resumeworded](https://resumeworded.com/results-v2)
+* [GoodSpace](https://goodspace.ai/premium/ats) - Free AI-powered ATS resume scanner with multilingual support. Get an instant score, missing keywords, and formatting fixes. First scan is free, no signup required.
 
 ## Communities
 
