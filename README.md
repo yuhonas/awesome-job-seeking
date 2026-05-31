@@ -43,6 +43,7 @@ A curated list of awesome job seeking resources
 
 ## AI
 
+* [AimVantage](https://aimvantage.uk) - AI job preparation tool. Upload your CV and a job URL to get a complete prep pack in ~90 seconds: company intel, CV fit score, tailored cover letter (4 tones), mock interview questions with AI evaluation, and a pitch outline. Also offers 20+ free career tools (Cover Letter Roast, Ghost Job Detector, ATS Resume Scanner), no signup required.
 Helpful for anything from career advice, cover letter generation to fine tuning your resume
 
 * [claude.ai](https://claude.ai/)
