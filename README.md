@@ -9,6 +9,7 @@ A curated list of awesome job seeking resources
 * [weworkremotely](https://weworkremotely.com/)
 * [ycombinator](https://news.ycombinator.com/jobs)
 * [Hanzilla Jobs](https://jobs.hanzilla.co/)
+* [FoundRole](https://www.foundrole.com/)
 
 ## Application Tracking
 
