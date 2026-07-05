@@ -55,7 +55,7 @@ Use with care & for inspiration
 ### Know Thine Enemy
 
 * [Lever ATS: What Every Job Seeker Should Know](https://www.jobscan.co/blog/lever-ats/)
-* [Getting started with Lever](https://help.lever.co/hc/en-us/articles/360030951972-Getting-started-with-Lever)
+* [Getting started with Lever](https://help.lever.co/s/article/Getting-started-with-Lever-as-a-Recruiter
 * [Greenhouse Support](https://support.greenhouse.io/hc/en-us/categories/360000310871-All-Recruiting-topics)
 
 
@@ -72,7 +72,6 @@ Use with care & for inspiration
 ## Productivty
 
 * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
-* [Job Matcher](https://christopherbeaulieu.net/job-matcher/) - Self-hosted pipeline that scores job listings against your skills profile using an LLM
 
 ## Would like to Contribute?
 
