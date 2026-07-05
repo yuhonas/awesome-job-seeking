@@ -10,3 +10,4 @@ jobs:
     - uses: tcort/github-action-markdown-link-check@v1
       with:
         use-verbose-mode: "yes"
+        file-path: "./README.md"
