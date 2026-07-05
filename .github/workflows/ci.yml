@@ -7,7 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: tcort/github-action-markdown-link-check@v1
-      with:
-        use-verbose-mode: "yes"
-        file-path: "./README.md"
+    - uses: actions/setup-node@v4
+    - name: Install markdown-link-check
+      run: npm install -g markdown-link-check
+    - name: Check Markdown links
+      run: markdown-link-check README.md
