@@ -7,7 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: DavidAnson/markdownlint-cli2-action@main
+    - uses: DavidAnson/markdownlint-cli2-action@v24
+      with:
+        globs: README.md
+
   link-check:
     needs: lint-markdown
     runs-on: ubuntu-latest

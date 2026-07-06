@@ -64,8 +64,8 @@ Use with care & for inspiration
   Support](https://support.greenhouse.io/hc/en-us/categories/360000310871-All-Recruiting-topics)
 - [Lever ATS: What Every Job Seeker Should
   Know](https://www.jobscan.co/blog/lever-ats/)
-- \[Getting started with
-  Lever\](https://help.lever.co/s/article/Getting-started-with-Lever-as-a-Recruiter
+- [Getting started with
+  Lever](https://help.lever.co/s/article/Getting-started-with-Lever-as-a-Recruiter)
 
 ## Other Awesome Resources
 
