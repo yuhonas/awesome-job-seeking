@@ -2,51 +2,14 @@
 
 A curated list of awesome job seeking resources to aid you in your job seeking journey.
 
-## First thing's first, where are you at?
+## What makes something awesome here?
 
-The _general_ flow of job seeking tends to look like the following
+* It's genuinely impactful and helpful
+* It illuminates the path forward and gives job seekers leverage
+* It's **free** or offers a generous free tier in order for you to ascertain its value, the last thing job seekers have is disposable income
+* It's not being promoted here for commerical/marketing purposes
 
-```mermaid
-flowchart TD
-    subgraph P1 ["Phase 1: Preparation & Optimization"]
-        A["Resume Tools"]
-        B["AI Assistants"]
-    end
-
-    subgraph P2 ["Phase 2: Research & Strategy"]
-        C["Company Insights"]
-        D["ATS Mechanics"]
-    end
-
-    subgraph P3 ["Phase 3: Sourcing & Networking"]
-        E["Job Boards"]
-        F["Communities"]
-        G["Cold Outreach"]
-    end
-
-    subgraph P4 ["Phase 4: Application & Tracking"]
-        H["Application Trackers"]
-        I["Productivity & Automation"]
-    end
-
-    subgraph P5 ["Phase 5: Interview Prep"]
-        J["Technical Practice"]
-        K["Mock & Behavioral Prep"]
-    end
-
-    subgraph P6 ["Phase 6: Negotiation & Offer"]
-        L["Salary Benchmarking"]
-        M["Negotiation Strategy"]
-    end
-
-    P1 --> P2
-    P2 --> P3
-    P3 --> P4
-    P4 --> P5
-    P5 --> P6
-```
-
-## Phase 1: Preparation & Resume Optimization
+## Phase 1: Get ready, put your best foot forward
 
 ### Resume Tools
 
@@ -69,7 +32,7 @@ Use with care & for inspiration:
 
 * [10 Free AI Prompts to Help You Land Your Next Job](https://timdietrich.me/blog/ai-prompts-job-search/)
 
-## Phase 2: Market Research & Strategy
+## Phase 2: Know thy market
 
 ### Company & Culture Insights
 
@@ -77,15 +40,9 @@ Use with care & for inspiration:
 * [Blind](https://www.teamblind.com/) - Anonymous professional network to discuss company culture, salary, and health.
 * [Wellfound](https://wellfound.com/) - Formerly AngelList Talent, discover startups based on culture, tech stack, and values.
 
-### Applicant Tracking Systems (ATS) Guides
+## Phase 3: Finding an opportunity
 
-* [Greenhouse Support](https://support.greenhouse.io/hc/en-us/categories/360000310871-All-Recruiting-topics)
-* [Lever ATS: What Every Job Seeker Should Know](https://www.jobscan.co/blog/lever-ats/)
-* [Getting started with Lever](https://help.lever.co/s/article/Getting-started-with-Lever-as-a-Recruiter)
-
-## Phase 3: Sourcing & Networking
-
-### Job Boards
+### Job Boards & Aggregators
 
 * [seek](https://seek.com/)
 * [indeed](https://indeed.com/)
@@ -93,6 +50,8 @@ Use with care & for inspiration:
 * [weworkremotely](https://weworkremotely.com/)
 * [ycombinator](https://news.ycombinator.com/jobs)
 * [Hanzilla Jobs](https://jobs.hanzilla.co/)
+* [simplify.jobs](https://simplify.jobs/)
+* [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
 
 ### Communities
 
@@ -118,17 +77,16 @@ Use with care & for inspiration:
 ### Cold Outreach
 
 * [Hunter.io](https://hunter.io/) - Find email addresses of recruiters and hiring managers.
-* [Hunter.io Template Directory](https://hunter.io/templates/cold-email-for-a-job) - Templates for cold emailing recruiters and hiring managers.
 
-## Phase 4: Application Tracking & Management
+## Phase 4: Getting past the company front door during the application process
 
-### Application Trackers & Productivity
+### Applicant Tracking Systems (ATS) Guides
 
-* [simplify.jobs](https://simplify.jobs/)
-* [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
-* [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
+* [Greenhouse Support](https://support.greenhouse.io/hc/en-us/categories/360000310871-All-Recruiting-topics)
+* [Lever ATS: What Every Job Seeker Should Know](https://www.jobscan.co/blog/lever-ats/)
+* [Getting started with Lever](https://help.lever.co/s/article/Getting-started-with-Lever-as-a-Recruiter)
 
-## Phase 5: Interview Preparation
+## Phase 5: Interview Prep
 
 ### Prep Resources & Platforms
 
@@ -157,6 +115,7 @@ Use with care & for inspiration:
 * [awesome-jobs](https://github.com/acacess/awesome-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+* [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 
 ## Would like to Contribute?
 
