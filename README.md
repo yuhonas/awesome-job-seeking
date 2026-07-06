@@ -22,6 +22,22 @@ A curated list of awesome job seeking resources
 * [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates and ATS-friendly export.
 * [GoodSpace](https://goodspace.ai/premium/ats) - Free AI-powered ATS resume scanner with multilingual support. Get an instant score, missing keywords, and formatting fixes. First scan is free, no signup required.
 
+## Salary & Negotiation
+
+* [Levels.fyi](https://www.levels.fyi/) - Crowdsourced salary, benefits, level mappings, and negotiation coaching.
+* [Fearless Salary Negotiation](https://fearlesssalarynegotiation.com/) - Free guides and templates on how to negotiate tech job offers.
+* [Payscale](https://www.payscale.com/) - Comprehensive salary market data.
+* [Salary.com](https://www.salary.com/) - Detailed salary comparison and compensation data.
+
+## Interview Preparation
+
+* [LeetCode](https://leetcode.com/) - Standard platform for technical coding interview practice.
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of tech companies that don't do whiteboard coding.
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Resumes, behavioral questions, and coding prep guides.
+* [Google's Interview Warmup](https://grow.google/certificates/interview-warmup/) - AI-powered tool offering automated feedback on practice interview questions.
+* [Pramp](https://www.pramp.com/) - Free peer-to-peer mock interviews.
+* [Interviewing.io](https://interviewing.io/) - Anonymous mock interviews with engineers from top tech companies.
+
 ## Communities
 
 ### Glassdoor
@@ -44,6 +60,17 @@ A curated list of awesome job seeking resources
   Posted](https://www.linkedin.com/groups/1727767/)
 * [Career Rocketeer / Job Search + Career
   Network](https://www.linkedin.com/groups/983057/)
+
+## Networking & Cold Outreach
+
+* [Hunter.io](https://hunter.io/) - Find email addresses of recruiters and hiring managers.
+* [Hunter.io Template Directory](https://hunter.io/templates/cold-email-for-a-job) - Templates for cold emailing recruiters and hiring managers.
+
+## Company Insights
+
+* [Layoffs.fyi](https://layoffs.fyi/) - Real-time tracker of tech layoffs.
+* [Blind](https://www.teamblind.com/) - Anonymous professional network to discuss company culture, salary, and health.
+* [Wellfound](https://wellfound.com/) - Formerly AngelList Talent, discover startups based on culture, tech stack, and values.
 
 ## AI
 
@@ -80,7 +107,7 @@ Use with care & for inspiration
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-## Productivty
+## Productivity
 
 * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 * [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
