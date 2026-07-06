@@ -1,6 +1,7 @@
 # Contribution Guidelines
 
 ## Table of Contents
+
 - [Adding to this list](#adding-to-this-list)
 - [Adding something to an Awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
@@ -28,7 +29,7 @@ If you have something awesome to contribute, this is how you do it.
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome lists GitHub page. For example: https://github.com/yuhonas/awesome-job-seeking,
+1. Access the awesome lists GitHub page. For example: <https://github.com/yuhonas/awesome-job-seeking>,
 2. Click on the `README.md` file
 3. Now click on the edit icon
 4. Edit contents of the file using the in-browser editor to add your changes
