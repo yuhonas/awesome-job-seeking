@@ -3,7 +3,7 @@
 ## What makes something awesome here?
 
 * It's genuinely impactful and helpful
-* It illuminates the path forward and gives job seekers leverage
+* It illuminates the path forward and hopefully gives job seekers leverage
 * It's **free** or offers a generous free tier in order for them to ascertain its value, the last thing job seekers have is disposable income
 * It's not being promoted here for commerical/marketing purposes
 
