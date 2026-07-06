@@ -1,10 +1,11 @@
 # Contribution Guidelines
 
-## Table of Contents
+## What makes something awesome here?
 
-- [Adding to this list](#adding-to-this-list)
-- [Adding something to an Awesome list](#adding-something-to-an-awesome-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+* It's genuinely impactful and helpful
+* It illuminates the path forward and hopefully gives job seekers leverage
+* It's **free** or offers a generous free tier in order for them to ascertain its value, the last thing job seekers have is disposable income
+* It's not being promoted here for commerical/marketing purposes
 
 ## Adding to this list
 
@@ -22,16 +23,3 @@ Please ensure your pull request adheres to the following guidelines:
 - The body of your commit message should contain a link to the repository.
 
 Thank you for your suggestions!
-
-## Adding something to an awesome list
-
-If you have something awesome to contribute, this is how you do it.
-
-You'll need a [GitHub account](https://github.com/join)!
-
-1. Access the awesome lists GitHub page. For example: <https://github.com/yuhonas/awesome-job-seeking>,
-2. Click on the `README.md` file
-3. Now click on the edit icon
-4. Edit contents of the file using the in-browser editor to add your changes
-5. Explain why you're proposing your changes, then click "Propose file change".
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)
