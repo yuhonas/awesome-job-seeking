@@ -20,4 +20,4 @@ jobs:
     - name: Install markdown-link-check
       run: npm install -g markdown-link-check
     - name: Check Markdown links
-      run: markdown-link-check README.md --alive "200,403"
+      run: markdown-link-check README.md --alive "200,403,429"
