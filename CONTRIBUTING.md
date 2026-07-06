@@ -1,10 +1,11 @@
 # Contribution Guidelines
 
-## Table of Contents
+## What makes something awesome here?
 
-- [Adding to this list](#adding-to-this-list)
-- [Adding something to an Awesome list](#adding-something-to-an-awesome-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+* It's genuinely impactful and helpful
+* It illuminates the path forward and hopefully gives job seekers leverage
+* It's **free** or offers a generous free tier in order for them to ascertain its value, the last thing job seekers have is disposable income
+* It's not being promoted here primarily for commerical/marketing purposes
 
 ## Adding to this list
 
