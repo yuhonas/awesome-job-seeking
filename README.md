@@ -21,6 +21,7 @@ A curated list of awesome job seeking resources
 * [resumeworded](https://resumeworded.com/results-v2)
 * [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates and ATS-friendly export.
 * [GoodSpace](https://goodspace.ai/premium/ats) - Free AI-powered ATS resume scanner with multilingual support. Get an instant score, missing keywords, and formatting fixes. First scan is free, no signup required.
+* [JobLane](https://joblane.ai) - AI copilot that gives an Apply/Stretch/Skip fit verdict for a job posting, then tailors your CV and cover letter with a reviewer pass showing every change. EN/ES/FR, EU-hosted.
 
 ## Communities
 
