@@ -53,6 +53,7 @@ tuning your resume
 * [claude.ai](https://claude.ai/)
 * [gemini](https://gemini.google.com/)
 * [meta.ai](https://www.meta.ai/)
+* [CoPilot Interview](https://copilotinterview.com/) - Desktop AI interview assistant (Windows/macOS) with a permanent free tier; real-time answer suggestions and mock-interview practice for coding, system design, and behavioral rounds on Zoom, Teams, and Meet.
 
 ### Prompt Templates
 
