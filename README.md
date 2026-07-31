@@ -11,6 +11,10 @@ A curated list of awesome job seeking resources
 * [ycombinator](https://news.ycombinator.com/jobs)
 * [Hanzilla Jobs](https://jobs.hanzilla.co/)
 
+## AI Job Search & Applications
+
+* [Jobloo](https://jobloo.co/) - AI-powered job search and application platform with 1.3M+ jobs. Finds relevant opportunities, tailors resumes and cover letters, and helps candidates apply faster.
+  
 ## Application Tracking
 
 * [simplify.jobs](https://simplify.jobs/)
@@ -35,6 +39,8 @@ A curated list of awesome job seeking resources
 * [r/jobs](https://www.reddit.com/r/jobs/)
 * [r/recruitinghell](https://www.reddit.com/r/recruitinghell/)
 * [r/resumes](https://www.reddit.com/r/resumes/)
+* [r/AIJobApplications](https://www.reddit.com/r/AIJobApplications/)
+* [r/ResumeOptimization](https://www.reddit.com/r/ResumeOptimization/)
 
 ### LinkedIn
 
