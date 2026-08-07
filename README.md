@@ -17,6 +17,7 @@ A curated list of awesome job seeking resources
 
 ## Resume Tools
 
+* [Resume Roaster](https://resume.roastlabai.com/) - Free AI resume critic with instant ATS keyword gap detection, bullet-point feedback, and recruiter-perspective flagging. No signup needed for the first roast.
 * [jobscan](https://www.jobscan.co/)
 * [resumeworded](https://resumeworded.com/results-v2)
 * [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates and ATS-friendly export.
