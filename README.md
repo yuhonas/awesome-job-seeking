@@ -61,6 +61,10 @@ A curated list of awesome job seeking resources
 * [r/ResumeOptimization](https://www.reddit.com/r/ResumeOptimization/)
 * [r/WorkOnline](https://www.reddit.com/r/WorkOnline/)
 
+### Browser Extensions
+
+* [ApplyW](https://applyw.app/) - Free Chrome extension that cleans up LinkedIn's job search results page.
+
 ## 📝 Prepare
 
 ### Resume & CV Tools
