@@ -78,6 +78,7 @@ A curated list of awesome job seeking resources
 * [ResumeAtlas](https://resumeatlas.io/check-resume-against-job-description) - Free AI tool that compares a resume against a job description, providing a match score and identifying missing skills and keyword gaps. No signup required.
 * [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 * [resumeworded](https://resumeworded.com/results-v2)
+* [SecondRound](https://secondround.app/?utm_source=github&utm_medium=directory&utm_campaign=directories-2026-09) - Free resume scan. Paste or upload a resume and get a 0 to 100 score, the line that costs you the most, and a plain rewrite. No signup needed to see the result.
 
 ### AI Assistants & Prompts
 
