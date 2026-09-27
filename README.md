@@ -143,6 +143,8 @@ Use with care & for inspiration
 
 ## 🙌 Would like to Contribute?
 
-If you have something useful to help job seekers, we'd love your contribution! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting a pull request.
+If you have something useful to help job seekers, we'd love your contribution! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) prior
 
-If you find this list helpful, please consider giving it a ⭐ star to help more job seekers find it.
+## ⭐️ Every star helps
+
+If you find this list helpful, please consider giving it a star to help more job seekers find it

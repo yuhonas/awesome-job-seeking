@@ -4,26 +4,23 @@
 
 * **Genuinely impactful & helpful:** It illuminates the path forward and gives job seekers leverage.
 * **Accessible & Free:** It is **100% free** or offers a **permanent, generous free tier** allowing job seekers to ascertain its value without hitting immediate paywalls or requiring credit cards.
-* **Distinct value:** It provides genuine utility beyond generic landing-page wrappers.
 * **Transparent:** If you are the author, creator, or affiliate of the tool, disclose it openly in your pull request.
 
-## Support the List ⭐
+## Support the List
 
-A rising tide lifts all boats: if you are submitting your tool or found this resource useful, please **give the repository a star**. Higher GitHub search rankings and star counts drive more traffic to the list, which directly increases exposure for all featured tools and resources.
+Maintaining this list takes time, if you found this resource useful, please **give the repository a star**. Further star counts help drive more traffic to the list, which increases exposure and helps all
 
 ## Adding to this list
 
 Please ensure your pull request adheres to the following guidelines:
 
 * Search previous suggestions before submitting to avoid duplicates.
-* Submit an individual pull request for each tool or resource.
-* Use the standard format: `* [Name](link) - Succinct 1-2 sentence description explaining its specific utility.`
-* Add new entries to the bottom of the relevant category.
-* Disclose affiliations in the PR description if you created or represent the tool.
-* Check spelling and grammar.
-* Keep commits clean and titled clearly (e.g. `Add ToolName to Category`).
+* Use the format: `* [Name](link) - Short 1-2 sentence description explaining its specific utility`
+* Add new entries to the bottom of the relevant category
+* Disclose affiliations in the PR description if you created or represent the tool
+* Check spelling and grammar
 
-Thank you for helping make job hunting more transparent and accessible!
+Thank you for helping improve the job hunting community and making it an easier place to navigate
 
 ## How to Submit a Pull Request
 

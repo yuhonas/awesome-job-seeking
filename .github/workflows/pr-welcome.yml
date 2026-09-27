@@ -16,7 +16,7 @@ jobs:
         with:
           script: |
             const author = context.payload.pull_request.user.login;
-            const message = `Thanks for contributing @${author}! 🎉\n\nTo help this list climb GitHub's rankings and drive more visibility to all featured resources (including yours!), please consider giving the repository a **⭐ star** if you haven't already.`;
+            const message = `Thanks for contributing @${author}! 🎉\n\nTo help this list climb GitHub's rankings and drive more visibility to all featured resources (including yours!), please consider starring the repository if you haven't already.`;
             github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
