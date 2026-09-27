@@ -1,4 +1,4 @@
-# Awesome Job Seeking [![Lint and Test](https://github.com/yuhonas/awesome-job-seeking/actions/workflows/ci.yml/badge.svg)](https://github.com/yuhonas/awesome-job-seeking/actions/workflows/ci.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Job Seeking [![Lint and Test](https://github.com/yuhonas/awesome-job-seeking/actions/workflows/ci.yml/badge.svg)](https://github.com/yuhonas/awesome-job-seeking/actions/workflows/ci.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/yuhonas/awesome-job-seeking?style=social)](https://github.com/yuhonas/awesome-job-seeking)
 
 A curated list of awesome job seeking resources
 
@@ -143,6 +143,8 @@ Use with care & for inspiration
 
 ## 🙌 Would like to Contribute?
 
-If you have something useful, we'd love your contribution
+If you have something useful to help job seekers, we'd love your contribution! Please read [CONTRIBUTING.md](./CONTRIBUTING.md) prior
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md)
+## ⭐️ Every star helps
+
+If you find this list helpful, please consider giving it a star to help more job seekers find it

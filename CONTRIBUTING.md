@@ -2,37 +2,32 @@
 
 ## What makes something awesome here?
 
-* It's genuinely impactful and helpful
-* It illuminates the path forward and hopefully gives job seekers leverage
-* It's **free** or offers a generous free tier in order for them to ascertain its value, the last thing job seekers have is disposable income
-* It's not being promoted here primarily for commerical/marketing purposes
+* **Genuinely impactful & helpful:** It illuminates the path forward and gives job seekers leverage.
+* **Accessible & Free:** It is **100% free** or offers a **permanent, generous free tier** allowing job seekers to ascertain its value without hitting immediate paywalls or requiring credit cards.
+* **Transparent:** If you are the author, creator, or affiliate of the tool, disclose it openly in your pull request.
+
+## Support the List
+
+Maintaining this list takes time, if you found this resource useful, please **give the repository a star**. Further star counts help drive more traffic to the list, which increases exposure and helps all
 
 ## Adding to this list
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[Description In Title Case](link)`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
+* Search previous suggestions before submitting to avoid duplicates.
+* Use the format: `* [Name](link) - Short 1-2 sentence description explaining its specific utility`
+* Add new entries to the bottom of the relevant category
+* Disclose affiliations in the PR description if you created or represent the tool
+* Check spelling and grammar
 
-Thank you for your suggestions!
+Thank you for helping improve the job hunting community and making it an easier place to navigate
 
-## Adding something to an awesome list
+## How to Submit a Pull Request
 
-If you have something awesome to contribute, this is how you do it.
+If you have something awesome to contribute:
 
-You'll need a [GitHub account](https://github.com/join)!
-
-1. Access the awesome lists GitHub page. For example: <https://github.com/yuhonas/awesome-job-seeking>,
-2. Click on the `README.md` file
-3. Now click on the edit icon
-4. Edit contents of the file using the in-browser editor to add your changes
-5. Explain why you're proposing your changes, then click "Propose file change".
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)
+1. View the `README.md` file.
+2. Click the edit (pencil) icon to fork the repository and make changes.
+3. Add your entry adhering to the guidelines above.
+4. Fill in the checklist in the pull request template.
+5. Submit the pull request for review.
