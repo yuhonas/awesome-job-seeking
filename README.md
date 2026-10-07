@@ -79,6 +79,7 @@ A curated list of awesome job seeking resources
 * [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 * [resumeworded](https://resumeworded.com/results-v2)
 * [FoundRole Resume Checker](https://www.foundrole.com/resume-checker) - Shows what an ATS parser actually reads off your resume: detected job title, years of experience, recognized skills, sections and contact details, plus what it loses. Deterministic, so the same resume always returns the same result. Free, no scoring gimmicks.
+* [Free New Zealand CV template](https://candidthread.com/resume-templates/nz-cv-template?ref=awesome-job-seeking) - Download a free A4 New Zealand CV template in Word, with a filled-in PDF example. No sign-up required; follows New Zealand careers guidance.
 
 ### AI Assistants & Prompts
 
