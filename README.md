@@ -125,12 +125,12 @@ Use with care & for inspiration
 
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions?tab=readme-ov-file)
 * [CoPilot Interview](https://copilotinterview.com/) - Desktop AI interview assistant (Windows/macOS) with a permanent free tier; real-time answer suggestions and mock-interview practice for coding, system design, and behavioral rounds on Zoom, Teams, and Meet.
-* [Google's Interview Warmup](https://grow.google/certificates/interview-warmup/) - AI-powered tool offering automated feedback on practice interview questions.
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of tech companies that don't do whiteboard coding.
 * [Interviewing.io](https://interviewing.io/) - Anonymous mock interviews with engineers from top tech companies.
 * [LeetCode](https://leetcode.com/) - Standard platform for technical coding interview practice.
 * [Pramp](https://www.pramp.com/) - Free peer-to-peer mock interviews.
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Resumes, behavioral questions, and coding prep guides.
+* [CandidThread](https://candidthread.com/mock-interview) - Free, no-sign-up mock interview practice with role-based questions, read-aloud prompts, browser transcription, pacing checks and up to three AI feedback rounds per day.
 
 ## 🤝 Offer
 
