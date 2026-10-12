@@ -22,6 +22,7 @@ A curated list of awesome job seeking resources
 * [tealhq](https://www.tealhq.com/)
 * [weworkremotely](https://weworkremotely.com/)
 * [ycombinator](https://news.ycombinator.com/jobs)
+* [RobotTraining.jobs](https://robottraining.jobs) - Free job board for paid robot-training work (teleoperation, demonstration recording, AV and drone test operation), with each job's posted pay.
 
 ### Curated Job Lists
 
