@@ -14,7 +14,7 @@ A curated list of awesome job seeking resources
 
 ### Job Boards
 
-* [CareJobs.Now](https://carejobs.now/) - US healthcare jobs (nursing, allied health, physicians) from 258 hospitals' and health systems' own career sites, with posted pay
+* [CareJobs.Now](https://carejobs.now/)
 * [FoundRole](https://www.foundrole.com/)
 * [Hanzilla Jobs](https://jobs.hanzilla.co/)
 * [indeed](https://indeed.com/)
