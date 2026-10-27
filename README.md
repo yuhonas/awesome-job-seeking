@@ -30,6 +30,7 @@ A curated list of awesome job seeking resources
 * [awesome-job-list](https://github.com/randallkanna/awesome-job-list)
 * [awesome-jobs](https://github.com/acacess/awesome-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+* [awesome-ai-native-jobs](https://github.com/landedjobs/awesome-ai-native-jobs) - Map of AI-native roles (AI engineer, GTM engineer, forward-deployed engineer and more) with salaries, skills, interview prep and 17 auto-updated job lists.
 
 ### Company & Culture Insights
 
