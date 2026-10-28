@@ -132,6 +132,8 @@ Use with care & for inspiration
 * [Pramp](https://www.pramp.com/) - Free peer-to-peer mock interviews.
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Resumes, behavioral questions, and coding prep guides.
 
+* [STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker?utm_source=github-awesome-job-seeking&utm_campaign=free-tools-oct) - Free, browser-only check of a behavioral interview answer: marks Situation, Task, Action and Result by sentence, times it at two speaking speeds, counts "I" vs "we" and flags filler words; nothing is uploaded and no account is needed.
+
 ## 🤝 Offer
 
 ### Compensation & Negotiation
