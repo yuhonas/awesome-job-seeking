@@ -118,6 +118,7 @@ Use with care & for inspiration
 * [Jobloo](https://jobloo.co/) - AI-powered job search and application platform with 1.3M+ jobs. Finds relevant opportunities, tailors resumes and cover letters, and helps candidates apply faster.
 * [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
 * [simplify.jobs](https://simplify.jobs/)
+* [Free Notion Job Application Trackers by Role](https://itch.io/c/8301723/free-notion-job-application-trackers-by-role) - Free Notion templates for software engineers, PMs, data analysts and UX designers, with role-specific stages and fields, deadlines, follow-up dates and a view of what's due in the next 3 days. Works on Notion's Free plan.
 
 ## 🎤 Interview
 
