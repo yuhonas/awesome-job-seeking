@@ -36,6 +36,7 @@ A curated list of awesome job seeking resources
 * [Blind](https://www.teamblind.com/) - Anonymous professional network to discuss company culture, salary, and health.
 * [Layoffs.fyi](https://layoffs.fyi/) - Real-time tracker of tech layoffs.
 * [Wellfound](https://wellfound.com/) - Formerly AngelList Talent, discover startups based on culture, tech stack, and values.
+* [Glassbox](https://seeglassbox.com/market?utm_source=awesome-job-seeking&utm_medium=listing&utm_campaign=listings-batch1) - Counts the skills tech jobs ask for.
 
 ### Communities & Networking
 
