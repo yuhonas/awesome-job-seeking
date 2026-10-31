@@ -118,6 +118,7 @@ Use with care & for inspiration
 * [Jobloo](https://jobloo.co/) - AI-powered job search and application platform with 1.3M+ jobs. Finds relevant opportunities, tailors resumes and cover letters, and helps candidates apply faster.
 * [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
 * [simplify.jobs](https://simplify.jobs/)
+* [NeverApply](https://neverapply.co/) - AI job-search agent that matches you to roles, tailors your resume for each job, answers screening questions and applies with your approval. Permanent free plan.
 
 ## 🎤 Interview
 
