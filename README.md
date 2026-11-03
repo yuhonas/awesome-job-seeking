@@ -89,6 +89,7 @@ tuning your resume
 * [claude.ai](https://claude.ai/)
 * [gemini](https://gemini.google.com/)
 * [meta.ai](https://www.meta.ai/)
+* [career-ops](https://github.com/career-ops-hq/career-ops) - Free, open-source AI job search agent that runs locally in AI coding CLIs: it scans company career pages, scores each job 1-5 against your CV and tailors an ATS-friendly resume for the ones worth it. You review each application and press Submit yourself. Docs at [career-ops.org](https://career-ops.org).
 
 #### Prompt Templates
 
