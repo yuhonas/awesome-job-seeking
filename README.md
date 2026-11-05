@@ -79,6 +79,7 @@ A curated list of awesome job seeking resources
 * [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 * [resumeworded](https://resumeworded.com/results-v2)
 * [FoundRole Resume Checker](https://www.foundrole.com/resume-checker) - Shows what an ATS parser actually reads off your resume: detected job title, years of experience, recognized skills, sections and contact details, plus what it loses. Deterministic, so the same resume always returns the same result. Free, no scoring gimmicks.
+* [Prizm](https://heyprizm.com/en?utm_source=github-awesome-job-seeking&utm_medium=annuaire&utm_campaign=annuaires-2026-11) - Gives an honest verdict on whether a job ad is worth applying to, with your strengths and the gaps that matter, then tailors your CV and cover letter to it from your real experience without inventing anything. Free tier of 5 applications a week, no card required.
 
 ### AI Assistants & Prompts
 
