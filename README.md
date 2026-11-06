@@ -80,6 +80,8 @@ A curated list of awesome job seeking resources
 * [resumeworded](https://resumeworded.com/results-v2)
 * [FoundRole Resume Checker](https://www.foundrole.com/resume-checker) - Shows what an ATS parser actually reads off your resume: detected job title, years of experience, recognized skills, sections and contact details, plus what it loses. Deterministic, so the same resume always returns the same result. Free, no scoring gimmicks.
 
+* [ResumeInvited](https://resumeinvited.com/) - Create resumes with templates and live preview, then download PDF or editable Word. The current version is free without sign-up, and drafts stay in the same browser.
+
 ### AI Assistants & Prompts
 
 Helpful for anything from career advice, cover letter generation to fine
