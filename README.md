@@ -22,6 +22,7 @@ A curated list of awesome job seeking resources
 * [tealhq](https://www.tealhq.com/)
 * [weworkremotely](https://weworkremotely.com/)
 * [ycombinator](https://news.ycombinator.com/jobs)
+* [CookLLM AI job board](https://cookllm.com/en/jobs/board) - Free board of 20,000+ open roles at 1,300+ AI companies, read from their career pages every 6 hours. Filter by function, level, region, visa sponsorship and remote work, no sign-up.
 
 ### Curated Job Lists
 
