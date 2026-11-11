@@ -80,6 +80,7 @@ A curated list of awesome job seeking resources
 * [resumeworded](https://resumeworded.com/results-v2)
 * [FoundRole Resume Checker](https://www.foundrole.com/resume-checker) - Shows what an ATS parser actually reads off your resume: detected job title, years of experience, recognized skills, sections and contact details, plus what it loses. Deterministic, so the same resume always returns the same result. Free, no scoring gimmicks.
 * [Resume Claim Guard](https://github.com/korey2028-prog/resume-claim-guard) - Open-source agent skill that writes a job-tailored resume from confirmed facts only, then audits each claim and previews interview follow-ups. Free, MIT, no account.
+
 ### AI Assistants & Prompts
 
 Helpful for anything from career advice, cover letter generation to fine
