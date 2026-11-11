@@ -23,6 +23,8 @@ A curated list of awesome job seeking resources
 * [weworkremotely](https://weworkremotely.com/)
 * [ycombinator](https://news.ycombinator.com/jobs)
 
+* [HeyRole](https://heyrole.ai) - Free remote-job browsing with location, role and seniority filters, original application links and an optional AI job-search assistant. Geographic eligibility is shown from each posting rather than assumed to be worldwide.
+
 ### Curated Job Lists
 
 * [awesome-internships](https://github.com/lodthe/awesome-internships?tab=readme-ov-file#where-to-apply)
