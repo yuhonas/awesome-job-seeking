@@ -79,6 +79,7 @@ A curated list of awesome job seeking resources
 * [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 * [resumeworded](https://resumeworded.com/results-v2)
 * [FoundRole Resume Checker](https://www.foundrole.com/resume-checker) - Shows what an ATS parser actually reads off your resume: detected job title, years of experience, recognized skills, sections and contact details, plus what it loses. Deterministic, so the same resume always returns the same result. Free, no scoring gimmicks.
+* [OffLadder CV](https://chromewebstore.google.com/detail/gldilkfnnfkjohfianhhiekbllomfpmk) - Chrome side panel that lists a job post's requirements and shows which ones your CV covers, then tailors your CV and cover letter to the post. Checking a job needs no account; tailoring needs a free account, with 10 tailorings a week.
 
 ### AI Assistants & Prompts
 
