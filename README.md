@@ -22,6 +22,7 @@ A curated list of awesome job seeking resources
 * [tealhq](https://www.tealhq.com/)
 * [weworkremotely](https://weworkremotely.com/)
 * [ycombinator](https://news.ycombinator.com/jobs)
+* [caio.pro](https://caio.pro/jobs.html) - Browse AI and data leadership roles, including Head of AI and Chief AI Officer positions, free of charge.
 
 ### Curated Job Lists
 
