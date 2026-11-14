@@ -30,6 +30,7 @@ A curated list of awesome job seeking resources
 * [awesome-job-list](https://github.com/randallkanna/awesome-job-list)
 * [awesome-jobs](https://github.com/acacess/awesome-jobs)
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)
+* [new-grad-developer-jobs-and-internships](https://github.com/DPWonder/new-grad-developer-jobs-and-internships) - Entry-level developer jobs and internships in the US and Canada posted in the last 7 days, from employers' own career pages.
 
 ### Company & Culture Insights
 
