@@ -133,6 +133,7 @@ Use with care & for inspiration
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Resumes, behavioral questions, and coding prep guides.
 
 * [STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker?utm_source=github-awesome-job-seeking&utm_campaign=free-tools-oct) - Free, browser-only check of a behavioral interview answer: marks Situation, Task, Action and Result by sentence, times it at two speaking speeds, counts "I" vs "we" and flags filler words; nothing is uploaded and no account is needed.
+* [Aethel](https://aethel.pro/practice) - Free practice for AI screening interviews in developer roles (backend, frontend, full-stack, data and ML, DevOps and SRE, mobile) at junior, mid and senior level, in English and Spanish. Each typed answer gets an instant check that quotes your own words, and no account is needed.
 
 ## 🤝 Offer
 
