@@ -17,6 +17,7 @@ A curated list of awesome job seeking resources
 * [FoundRole](https://www.foundrole.com/)
 * [Hanzilla Jobs](https://jobs.hanzilla.co/)
 * [indeed](https://indeed.com/)
+* [Jobs Every Hour](https://jobseveryhour.com/)
 * [Jobs in JS](https://jobsinjs.com/)
 * [seek](https://seek.com/)
 * [tealhq](https://www.tealhq.com/)
