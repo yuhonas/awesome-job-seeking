@@ -79,6 +79,7 @@ A curated list of awesome job seeking resources
 * [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 * [resumeworded](https://resumeworded.com/results-v2)
 * [FoundRole Resume Checker](https://www.foundrole.com/resume-checker) - Shows what an ATS parser actually reads off your resume: detected job title, years of experience, recognized skills, sections and contact details, plus what it loses. Deterministic, so the same resume always returns the same result. Free, no scoring gimmicks.
+* [LAYIQ ATS Résumé Checker](https://www.layiq.co/tools/ats-resume-checker) - Free ATS check that runs in your browser: your résumé file is never uploaded or saved. Compare it with a job posting. No account needed.
 
 ### AI Assistants & Prompts
 
@@ -118,6 +119,7 @@ Use with care & for inspiration
 * [Jobloo](https://jobloo.co/) - AI-powered job search and application platform with 1.3M+ jobs. Finds relevant opportunities, tailors resumes and cover letters, and helps candidates apply faster.
 * [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
 * [simplify.jobs](https://simplify.jobs/)
+* [LAYIQ Ghost Job Checker](https://www.layiq.co/tools/ghost-job-checker) - Paste a job link to see whether it is live on the employer's hiring system and how old it is. Free, no sign-up or résumé.
 
 ## 🎤 Interview
 
@@ -133,6 +135,7 @@ Use with care & for inspiration
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Resumes, behavioral questions, and coding prep guides.
 
 * [STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker?utm_source=github-awesome-job-seeking&utm_campaign=free-tools-oct) - Free, browser-only check of a behavioral interview answer: marks Situation, Task, Action and Result by sentence, times it at two speaking speeds, counts "I" vs "we" and flags filler words; nothing is uploaded and no account is needed.
+* [LAYIQ STAR Interview Coach](https://www.layiq.co/tools/star-interview-coach) - Free STAR practice timer with a five-question quality check. No sign-up; your stories stay on your device.
 
 ## 🤝 Offer
 
