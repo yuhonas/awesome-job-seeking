@@ -79,6 +79,7 @@ A curated list of awesome job seeking resources
 * [ResumeOrbitz](https://resumeorbitz.com) - Free resume builder with AI-generated content, an ATS score checker, and 150+ templates, with no paywall or watermark.
 * [resumeworded](https://resumeworded.com/results-v2)
 * [FoundRole Resume Checker](https://www.foundrole.com/resume-checker) - Shows what an ATS parser actually reads off your resume: detected job title, years of experience, recognized skills, sections and contact details, plus what it loses. Deterministic, so the same resume always returns the same result. Free, no scoring gimmicks.
+* [EuroJobs.ai](https://eurojobs.ai/) - Free AI CV and cover letter tailoring for any of the 28,000+ IT jobs in Europe listed on the site (3 a day), with a fact-check step that removes anything your CV does not support. 6 languages, PDF and Word.
 
 ### AI Assistants & Prompts
 
