@@ -133,6 +133,7 @@ Use with care & for inspiration
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Resumes, behavioral questions, and coding prep guides.
 
 * [STAR Answer Checker](https://roundrehearsal.com/tools/star-answer-checker?utm_source=github-awesome-job-seeking&utm_campaign=free-tools-oct) - Free, browser-only check of a behavioral interview answer: marks Situation, Task, Action and Result by sentence, times it at two speaking speeds, counts "I" vs "we" and flags filler words; nothing is uploaded and no account is needed.
+* [Remote Interview Screen-Sharing Rehearsal](https://workinvirtual.com/remote-job-interview-screen-sharing/) - Free guide and a two-window practice exercise for sharing a sample document and spreadsheet while keeping unrelated tabs private.
 
 ## 🤝 Offer
 
