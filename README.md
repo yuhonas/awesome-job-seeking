@@ -14,6 +14,7 @@ A curated list of awesome job seeking resources
 
 ### Job Boards
 
+* [CareJobs.Now](https://carejobs.now/)
 * [FoundRole](https://www.foundrole.com/)
 * [Hanzilla Jobs](https://jobs.hanzilla.co/)
 * [indeed](https://indeed.com/)
