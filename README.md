@@ -112,6 +112,8 @@ Use with care & for inspiration
 * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
+* [HVAC School Guide — Cost vs Metro Pay](https://hvacschoolguide.com/reports/hvac-training-cost-vs-pay) - Free BLS-sourced months-to-recoup table for career-changers evaluating HVAC / skilled-trades training cost vs metro pay.
+
 ## 📨 Apply
 
 * [Hunter.io](https://hunter.io/) - Find email addresses of recruiters and hiring managers.
