@@ -118,6 +118,7 @@ Use with care & for inspiration
 * [Jobloo](https://jobloo.co/) - AI-powered job search and application platform with 1.3M+ jobs. Finds relevant opportunities, tailors resumes and cover letters, and helps candidates apply faster.
 * [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
 * [simplify.jobs](https://simplify.jobs/)
+* [JobShifu](https://jobshifu.com) - Free Chrome extension that autofills Workday, Greenhouse, Lever and 20+ more application forms with your saved answers and the resume you tailored for that job. Tailored resumes are built from experience you confirm, with 2 free a day.
 
 ## 🎤 Interview
 
