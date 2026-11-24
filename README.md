@@ -118,6 +118,7 @@ Use with care & for inspiration
 * [Jobloo](https://jobloo.co/) - AI-powered job search and application platform with 1.3M+ jobs. Finds relevant opportunities, tailors resumes and cover letters, and helps candidates apply faster.
 * [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
 * [simplify.jobs](https://simplify.jobs/)
+* [Keel](https://github.com/KeelDev-tech/keel) - Open-core job-application autopilot with a truthfulness contract: it only ever claims what you tell it is true, with fit scoring, prescreen gates, and fail-closed handling.
 
 ## 🎤 Interview
 
