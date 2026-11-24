@@ -119,6 +119,8 @@ Use with care & for inspiration
 * [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
 * [simplify.jobs](https://simplify.jobs/)
 
+* [hh-vacancy-check](https://github.com/basovdanil/hh-vacancy-check) - Command-line check of whether an hh.ru vacancy is still open: reads the employer's deadline from the page's schema.org block, because the archive banner is in every page template and text checks always say "archived". Saves the application you would have spent on a closed posting.
+
 ## 🎤 Interview
 
 ### Interview Preparation
