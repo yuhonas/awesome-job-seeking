@@ -67,6 +67,7 @@ A curated list of awesome job seeking resources
 
 * [Free ATS Resume Checker](https://hugounoclaw.github.io/ats-checker/) - Privacy-first ATS resume checker that runs entirely in your browser. Paste your resume or upload a PDF for an instant 0-100 score, job-description keyword match, and prioritized fixes. No signup, nothing uploaded.
 * [GoodSpace](https://goodspace.ai/premium/ats) - Free AI-powered ATS resume scanner with multilingual support. Get an instant score, missing keywords, and formatting fixes. First scan is free, no signup required.
+* [ResumeMetric](https://resumemetric.com/) - Instant, browser-only ATS resume scanner that scores PDF/DOCX resumes against job descriptions, flags missing keywords and parsing errors, and includes 25 ATS-safe templates plus 16 career calculators. Nothing is uploaded, no signup required.
 * [JDMatcher](https://resumejdmatcher.com) - AI resume-to-JD matcher. Paste your resume + job description, get an instant match score and a one-click tailored rewrite with ATS-friendly PDF export. Free tier.
 * [JobLane](https://joblane.ai) - AI copilot that gives an Apply/Stretch/Skip fit verdict for a job posting, then tailors your CV and cover letter with a reviewer pass showing every change. EN/ES/FR, EU-hosted.
 * [jobscan](https://www.jobscan.co/)
